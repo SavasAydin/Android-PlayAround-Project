@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvAboutMe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recently I have received the degree in Applied IT with a specialization in Software Engineering and Management which was carried out by the University of Gothenburg in cooperation with Chalmers University of Technology. I am looking for FT opportunities in Sweden" />
+
+</RelativeLayout>
